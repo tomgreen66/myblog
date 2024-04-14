@@ -1,0 +1,4 @@
+baseURL = 'https://tomgreen66.github.io'
+languageCode = 'en-us'
+title = 'Tom Green Blog'
+theme = 'cactus'
